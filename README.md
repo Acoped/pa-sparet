@@ -1,10 +1,12 @@
 # På Spåret
 
+## 2018-2019
+
+### Resultat
+
 /X betyder att spelare X i laget tillfälligt inte är med
 
 +X betyder att spelare X är tillfälligt tillagd i laget
-
-## Resultat 2018-2019
 
 Datum|AD|JC|VS|O|
 -----------|-----|-----|-----|-----|
@@ -21,3 +23,11 @@ Datum|AD|JC|VS|O|
 19-02-08 | 18 | 15 | 19 | 8 |
 19-02-15 | 12 | 22 | 10 | 9 |
 19-02-22 | 22 | 17 | 20 | - |
+
+### Statistik
+
+![Stats 18-19](stats_18-19.png)
+
+### Versus
+
+![Versus 18-19](vs_18-19.png)
