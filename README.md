@@ -1,10 +1,10 @@
-# pa-sparet
+# På Spåret
 
 /X betyder att spelare X i laget tillfälligt inte är med
 
 +X betyder att spelare X är tillfälligt tillagd i laget
 
-## resultat 2018-2019
+## Resultat 2018-2019
 
 Datum|AD|JC|VS|O|
 -----------|-----|-----|-----|-----|
